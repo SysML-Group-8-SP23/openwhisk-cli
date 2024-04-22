@@ -29,6 +29,7 @@ const (
 	MEMORY_FLAG      = "memory"
 	LOG_SIZE_FLAG    = "logsize"
 	CPU_FLAG 		 = "cpu"
+	NETWORK_FLAG     = "network"
 	CONCURRENCY_FLAG = "concurrency"
 	TIMEOUT_FLAG     = "timeout"
 	WEB_FLAG         = "web"
@@ -147,6 +148,7 @@ type ActionFlags struct {
 	memory        int
 	logsize       int
 	cpu			  int
+	network	      int
 	concurrency   int
 	result        bool
 	kind          string

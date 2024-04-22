@@ -25,7 +25,7 @@ import (
 	"github.com/spf13/cobra"
 
 	"github.com/apache/openwhisk-cli/wski18n"
-	"github.com/neerajas-group/openwhisk-client-go/whisk"
+	"github.com/SysML-Group-8-SP23/openwhisk-client-go/whisk"
 )
 
 // namespaceCmd represents the namespace command

@@ -22,7 +22,7 @@ import (
 	"fmt"
 
 	"github.com/apache/openwhisk-cli/wski18n"
-	"github.com/neerajas-group/openwhisk-client-go/whisk"
+	"github.com/SysML-Group-8-SP23/openwhisk-client-go/whisk"
 
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"

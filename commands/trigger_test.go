@@ -19,7 +19,7 @@ package commands
 
 import (
 	"errors"
-	"github.com/neerajas-group/openwhisk-client-go/whisk"
+	"github.com/SysML-Group-8-SP23/openwhisk-client-go/whisk"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"net/http"
